@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: ubi
-          image: quay.io/rhtw/ubi:9.2-1
+          image: quay.io/rhtw/ubi:9.2-2
           resources:
             requests:
               cpu: 100m
